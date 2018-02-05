@@ -14,7 +14,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
- 
+ <scm>
+<connection>scm:github:https://github.com/makr123/Devops.git/</connection>
+<developerConnection>scm:github:https://github.com/makr123/Devops.git/</developerConnection>
+</scm>
   <distributionManagement>
 
 		<repository>
